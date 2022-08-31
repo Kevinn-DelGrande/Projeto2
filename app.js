@@ -1,0 +1,1 @@
+console.log('Olá seus noia fumador de queijo mofado');
